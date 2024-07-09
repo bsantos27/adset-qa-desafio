@@ -1,0 +1,2 @@
+marca,modelo,anoFabricacao,anoModelo,versao,condicaoVeiculo,quilometragem,portas,cor,combustivel,cambio,placa,chassi,blindado,preco,caracteristicas,obsercacoes,link,itensOpcionais,fotos
+<marca>,<modelo>,<anoFabricao>,<anoModelo>,<versao>,<condicaoVeiculo>,<quilometragem>,<portas>,<cor>,<combustivel>,<cambio>,<placa>,<chassi>,<blindado>,<preco>,<caracteristicas>,<obsercacoes>,<link>,<itensOpcionais>,<fotos>
